@@ -1,0 +1,3 @@
+[submodule "BayDS"]
+	path = BayDS
+	url = https://github.com/vasyafon/BayDS.git
